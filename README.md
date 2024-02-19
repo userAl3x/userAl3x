@@ -2,28 +2,27 @@
 
 Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado en programación. Actualmente estoy realizando el grado superior de desarrollo de aplicaciones multiplataforma.
 
-## Acerca de mí 🎧
+## 🎧 Acerca de mí
 
 - 🎓 Estudiante de Informática.
 - 💻 Apasionado por la programación y el desarrollo de software.
 - 🌱 Siempre aprendiendo y mejorando mis habilidades técnicas.
 - 📚 Interesado en proyectos relacionados con Java, HTML, CSS, XSD, XML, C y Kotlin.
 
-## Lenguajes y Tecnologías 💻 
+## 💻 Lenguajes y Tecnologías 
 
-- Java: [![Java](https://img.shields.io/github/languages/top/user/repo/Java.svg)](https://github.com/user/repo/)
-- C: [![C](https://img.shields.io/github/languages/top/user/repo/C.svg)](https://github.com/user/repo/)
-- Kotlin: [![Kotlin](https://img.shields.io/github/languages/top/user/repo/Kotlin.svg)](https://github.com/user/repo/)
-- MySQL: [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-- HTML: ![html](https://github.com/userAl3x/userAl3x/assets/121909423/d65d6031-621b-4edc-b2a7-0bd61a2c5f22)
-
+- Java: 
+- C
+- Kotlin: 
+- MySQL: 
+- HTML: 
 - CSS 
 - XSD
 - XML
 - Windows Server
 - Ubuntu Server
 
-## Contacto 📲
+## 📲 Contacto 
 
 ¡Si quieres ponerte en contacto conmigo, no dudes en hacerlo!
 
