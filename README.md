@@ -15,7 +15,7 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 - C: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" style="vertical-align:top; width='1' height='1' margin:4px">
 
 - Kotlin
-- MySQL
+- MySQL: ![MySQL](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/mysql.svg)
 - HTML: <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
      
 - CSS 
