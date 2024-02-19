@@ -1,5 +1,6 @@
-### Hola 🤓👋
-Mi nombre es Alex y soy un estudiante
+### Hola 🤓👋, bienvenido a mi perfil profesional
+Soy un estudiante de programación, actualmente estoy realizando el grado superior de desarrollo de aplicaciones multiplataforma.
+
 
 <!--
 **userAl3x/userAl3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
