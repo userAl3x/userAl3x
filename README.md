@@ -1,4 +1,5 @@
 ### Hola 🤓👋
+Mi nombre es Alex y soy un estudiante
 
 <!--
 **userAl3x/userAl3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
