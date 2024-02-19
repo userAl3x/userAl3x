@@ -17,6 +17,7 @@
 - C
 - Kotlin
 - MySQL
+- PHP
 - HTML
 - CSS
 - XML
