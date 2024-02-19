@@ -11,8 +11,7 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 
 ## 💻 Lenguajes y Tecnologías 
 
-- Java: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="#007396">
-
+- Java
 - C
 - Kotlin
 - MySQL
