@@ -1,4 +1,4 @@
-### Hola 🤓👋, bienvenido a mi perfil profesional
+![image](https://github.com/userAl3x/userAl3x/assets/121909423/6ce94b5b-c76a-4e22-bab1-19dc97c0368d)### Hola 🤓👋, bienvenido a mi perfil profesional
 
 Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado en programación. 
 
@@ -12,7 +12,8 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 ## 💻 Lenguajes y Tecnologías 
 
 - Java 
-- C
+- C <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png style="vertical-align:top; margin:4px>
+
 - Kotlin
 - MySQL
 - HTML: <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
