@@ -11,10 +11,10 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 
 ## Lenguajes y Tecnologías 💻 
 
-- Java: 
+- Java: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 - C: 
 - Kotlin: 
-- SQL: 
+- MySQL: [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 - HTML
 - CSS 
 - XSD
