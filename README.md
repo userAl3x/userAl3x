@@ -22,8 +22,6 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 - Windows Server
 - Ubuntu Server
 
-## Proyectos Destacados
-Aquí hay una lista de algunos de los proyectos e
 ## 📲 Contacto 
 
 ¡Si quieres ponerte en contacto conmigo, no dudes en hacerlo!
