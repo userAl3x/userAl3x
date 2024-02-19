@@ -18,7 +18,7 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 - MySQL: ![MySQL](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/mysql.svg)
 - HTML: <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
      
-- CSS 
+- CSS: https://www.flaticon.es/icono-gratis/css_919826?term=css&page=1&position=4&origin=search&related_id=919826
 - XSD
 - XML
 - Windows Server
