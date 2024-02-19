@@ -11,11 +11,11 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 
 ## 💻 Lenguajes y Tecnologías 
 
-- Java: 
+- Java
 - C
-- Kotlin: 
-- MySQL: 
-- HTML: 
+- Kotlin
+- MySQL
+- HTML
 - CSS 
 - XSD
 - XML
