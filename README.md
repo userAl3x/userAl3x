@@ -2,7 +2,6 @@
 
 Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado en programación. Actualmente estoy realizando el grado superior de desarrollo de aplicaciones multiplataforma.
 
-
 ## Acerca de mí
 
 - 🎓 Estudiante de Informática.
@@ -10,20 +9,18 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 - 🌱 Siempre aprendiendo y mejorando mis habilidades técnicas.
 - 📚 Interesado en proyectos relacionados con Java, HTML, CSS, XSD, XML, C y Kotlin.
 
-
 ## Lenguajes y Tecnologías
 
-- Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-- C ![C](https://img.icons8.com/color/48/000000/c-programming.png)
-- Kotlin ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
-- SQL ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
-- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- XSD (XML Schema Definition) ![XSD](https://img.icons8.com/color/48/000000/xml-file.png)
-- XML ![XML](https://img.icons8.com/color/48/000000/xml-file.png)
-- Windows Server ![Windows Server](https://img.icons8.com/color/48/000000/windows-server.png)
-- Ubuntu Server ![Ubuntu Server](https://img.icons8.com/color/48/000000/ubuntu--v1.png)
-
+- Java: 
+- C: 
+- Kotlin: 
+- SQL: 
+- HTML
+- CSS 
+- XSD
+- XML
+- Windows Server
+- Ubuntu Server
 
 ## Contacto
 
