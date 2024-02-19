@@ -15,7 +15,8 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 - C
 - Kotlin
 - MySQL
-- HTML: src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+- HTML: <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img   
 - CSS 
 - XSD
 - XML
