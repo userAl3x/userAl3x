@@ -2,14 +2,14 @@
 
 Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado en programación. Actualmente estoy realizando el grado superior de desarrollo de aplicaciones multiplataforma.
 
-## Acerca de mí
+## Acerca de mí 🎧
 
 - 🎓 Estudiante de Informática.
 - 💻 Apasionado por la programación y el desarrollo de software.
 - 🌱 Siempre aprendiendo y mejorando mis habilidades técnicas.
 - 📚 Interesado en proyectos relacionados con Java, HTML, CSS, XSD, XML, C y Kotlin.
 
-## Lenguajes y Tecnologías
+## Lenguajes y Tecnologías 💻 
 
 - Java: 
 - C: 
@@ -22,7 +22,7 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 - Windows Server
 - Ubuntu Server
 
-## Contacto
+## Contacto 📲
 
 ¡Si quieres ponerte en contacto conmigo, no dudes en hacerlo!
 
