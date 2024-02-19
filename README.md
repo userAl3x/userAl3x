@@ -29,6 +29,8 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 - Correo Electrónico: alex.jimenez@gracia.lasalle.cat
 - LinkedIn: Alex Jiménez https://www.linkedin.com/in/alex-jiménez-quiñonero-6abb9a236/
 
+[![LANGUAGE](https://img.shields.io/github/languages/top/user/repo/LANGUAGE.svg)](https://github.com/user/repo/)
+
 <!--
 **userAl3x/userAl3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
