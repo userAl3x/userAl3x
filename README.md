@@ -12,7 +12,7 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 ## 💻 Lenguajes y Tecnologías 
 
 - Java 
-- C: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" style="vertical-align:top; width='10' height='10' margin:4px">
+- C: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" style="vertical-align:top; width='1' height='1' margin:4px">
 
 - Kotlin
 - MySQL
