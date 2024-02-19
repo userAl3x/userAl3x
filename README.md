@@ -12,12 +12,13 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 ## Lenguajes y Tecnologías
 
 - Java
+- C
+- Kotlin
+- SQL
 - HTML
 - CSS
 - XSD (XML Schema Definition)
 - XML
-- C
-- Kotlin
 - Windows Server
 - Ubuntu Server
 
