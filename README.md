@@ -11,9 +11,9 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 
 ## Lenguajes y Tecnologías 💻 
 
-- Java: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-- C: 
-- Kotlin: 
+- Java: [![Java](https://img.shields.io/github/languages/top/user/repo/Java.svg)](https://github.com/user/repo/)
+- C: [![C](https://img.shields.io/github/languages/top/user/repo/C.svg)](https://github.com/user/repo/)
+- Kotlin: [![Kotlin](https://img.shields.io/github/languages/top/user/repo/Kotlin.svg)](https://github.com/user/repo/)
 - MySQL: [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 - HTML
 - CSS 
