@@ -1,7 +1,8 @@
 ### Hola 🤓👋, bienvenido a mi perfil profesional
 
-Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado en programación. 
-
+- **Nombre:** Alex Jiménez.
+- **Ubicación:** Barcelona, España.
+- **Correo electrónico:** alex.jimenez@gracia.lasalle.cat
 ## 🎧 Acerca de mí
 
 - 🎓 Estudiante de Informática.
