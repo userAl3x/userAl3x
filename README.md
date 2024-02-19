@@ -1,6 +1,6 @@
 ### Hola 🤓👋, bienvenido a mi perfil profesional
 
-Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado en programación. Actualmente estoy realizando el grado superior de desarrollo de aplicaciones multiplataforma.
+Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado en programación. 
 
 ## 🎧 Acerca de mí
 
@@ -11,7 +11,8 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 
 ## 💻 Lenguajes y Tecnologías 
 
-- Java
+- Java: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="#007396">
+
 - C
 - Kotlin
 - MySQL
