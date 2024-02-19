@@ -13,7 +13,7 @@
 
 ## 💻 Lenguajes y Tecnologías 
 
-- Java 
+- Java ![Java Logo](https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg)
 - C
 - Kotlin
 - MySQL
