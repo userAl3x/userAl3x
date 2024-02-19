@@ -1,6 +1,6 @@
 ### Hola 🤓👋, bienvenido a mi perfil profesional
 
-Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado en programación. Estoy estoy realizando el grado superior de desarrollo de aplicaciones multiplataforma.
+Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado en programación. Actualmente estoy realizando el grado superior de desarrollo de aplicaciones multiplataforma.
 
 ## Acerca de mí
 
