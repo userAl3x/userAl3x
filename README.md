@@ -3,6 +3,7 @@
 - **Nombre:** Alex Jiménez.
 - **Ubicación:** Barcelona, España.
 - **Correo electrónico:** alex.jimenez@gracia.lasalle.cat
+  
 ## 🎧 Acerca de mí
 
 - 🎓 Estudiante de Informática.
@@ -22,6 +23,10 @@
 - XSD
 - Windows Server
 - Ubuntu Server
+
+## 💻 Proyectos 
+
+- Proyecto realizado en lenguaje Kotlin Project Zookeper: https://github.com/userAl3x/Project-Zookper
 
 ## 📲 Contacto 
 
