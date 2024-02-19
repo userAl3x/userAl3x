@@ -11,7 +11,7 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 
 ## 💻 Lenguajes y Tecnologías 
 
-- Java
+- Java 
 - C
 - Kotlin
 - MySQL
@@ -22,6 +22,15 @@ Mi nombre es Alex, soy un estudiante de 24 años de Informática especializado e
 - Windows Server
 - Ubuntu Server
 
+- Java ![Java Logo](url/a/tu/logo/java.png)
+- C ![C Logo](url/a/tu/logo/c.png)
+- HTML ![HTML Logo](url/a/tu/logo/html.png)
+- CSS ![CSS Logo](url/a/tu/logo/css.png)
+- Kotlin ![Kotlin Logo](url/a/tu/logo/kotlin.png)
+- MySQL ![MySQL Logo](url/a/tu/logo/mysql.png)
+
+## Proyectos Destacados
+Aquí hay una lista de algunos de los proyectos e
 ## 📲 Contacto 
 
 ¡Si quieres ponerte en contacto conmigo, no dudes en hacerlo!
