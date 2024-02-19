@@ -24,10 +24,10 @@
 - Windows Server
 - Ubuntu Server
 
-## 💻 Proyectos 
+## 📂 Proyectos 
 
-- Proyecto realizado en lenguaje Kotlin Project Zookeper: https://github.com/userAl3x/Project-Zookper
-
+- Proyecto realizado en lenguaje Kotlin, Project Zookeper: https://github.com/userAl3x/Project-Zookper
+  
 ## 📲 Contacto 
 
 ¡Si quieres ponerte en contacto conmigo, no dudes en hacerlo!
