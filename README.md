@@ -1,8 +1,6 @@
 ### Hola 🤓👋, bienvenido a mi perfil profesional
 
-- **Nombre:** Alex Jiménez.
-- **Ubicación:** Barcelona, España.
-- **Correo electrónico:** alex.jimenez@gracia.lasalle.cat
+¡Hola! Soy Alex, un estudiante apasionado de informática especializado en programación. Actualmente estoy cursando el grado superior de Desarrollo de Aplicaciones Multiplataforma. Este repositorio es un espacio donde comparto proyectos, ejercicios y aprendizajes relacionados con mi formación y desarrollo como programador.
   
 ## 🎧 Acerca de mí
 
