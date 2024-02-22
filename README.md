@@ -11,17 +11,22 @@ Me llamo Alex, soy un estudiante apasionado de informática especializado en pro
 
 ## 💻 Lenguajes y Tecnologías 
 
-- Java
-- C
-- Kotlin
-- MySQL
-- PHP
-- HTML
-- CSS
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white" />
+- kotlin
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+<img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+<img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
 - XML
 - XSD
+
+## 💻 Tecnologías y IDEs
 - Windows Server
 - Ubuntu Server
+- Visual Studio Code
+- Intellij IDEA
+- CLion
 
 ## 📂 Proyectos 
 
