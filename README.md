@@ -1,3 +1,9 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 ### Hola 🤓👋
 ### Bienvenido/a a mi perfil profesional
 Me llamo Alex, soy un estudiante apasionado de informática especializado en programación. Actualmente estoy cursando el grado superior de Desarrollo de Aplicaciones Multiplataforma. Este repositorio es un espacio donde comparto proyectos, ejercicios y aprendizajes relacionados con mi formación y desarrollo como programador.
