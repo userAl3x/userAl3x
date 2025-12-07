@@ -41,7 +41,7 @@ Me llamo Alex, soy un estudiante apasionado de informática especializado en pro
 ## 📂 Proyectos 
 
 - Proyecto realizado en lenguaje PHP, CRUD de Productos: https://github.com/userAl3x/CRUD_PHP
-- Proyecto realizado en FrameWork Laravel y Lenguaje , Gestor Académico CRUD: https://github.com/userAl3x/CRUD-en-Laravel
+- Proyecto realizado en FrameWork Laravel y Lenguaje PHP, Gestor Académico CRUD: https://github.com/userAl3x/CRUD-en-Laravel
 - Proyecto realizado en lenguaje SWIFT, First iOS App: https://github.com/userAl3x/First-iOS-App
 - Proyecto realizado en lenguaje Python, Módulo de Gestión Médica para Odoo: https://github.com/userAl3x/Modulo-Odoo-Medico
 - Proyecto realizado en lenguaje Kotlin y en FrameWork Jetpack Compose: https://github.com/userAl3x/Business-Cards
