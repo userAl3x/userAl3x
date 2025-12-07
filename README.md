@@ -44,7 +44,7 @@ Me llamo Alex, soy un estudiante apasionado de informática especializado en pro
 
 - Proyecto realizado en lenguaje PHP, CRUD de Productos: https://github.com/userAl3x/CRUD_PHP
 - Proyecto realizado en lenguaje SWIFT, First iOS App: https://github.com/userAl3x/First-iOS-App
-- Proyecto realizado en lenguaje Python: Módulo de Gestión Médica para Odoo: https://github.com/userAl3x/Modulo-Odoo-Medico
+- Proyecto realizado en lenguaje Python, Módulo de Gestión Médica para Odoo: https://github.com/userAl3x/Modulo-Odoo-Medico
   
 ## 📲 Contacto 
 
