@@ -40,12 +40,13 @@ Me llamo Alex, soy un estudiante apasionado de informática especializado en pro
 
 ## 📂 Proyectos 
 
-- Proyecto realizado en lenguaje PHP, CRUD de Productos: https://github.com/userAl3x/CRUD_PHP
-- Proyecto realizado en FrameWork Laravel y Lenguaje PHP, Gestor Académico CRUD: https://github.com/userAl3x/CRUD-en-Laravel
-- Proyecto realizado en lenguaje SWIFT, First iOS App: https://github.com/userAl3x/First-iOS-App
-- Proyecto realizado en lenguaje SWIFT, FruitsDemo App: https://github.com/userAl3x/FruitsDemo
-- Proyecto realizado en lenguaje Python, Módulo de Gestión Médica para Odoo: https://github.com/userAl3x/Modulo-Odoo-Medico
-- Proyecto realizado en lenguaje Kotlin y en FrameWork Jetpack Compose: https://github.com/userAl3x/Business-Cards
+- Proyecto CRUD de Productos, realizado en lenguaje PHP: https://github.com/userAl3x/CRUD_PHP
+- Proyecto Gestor Académico CRUD, realizado en FrameWork Laravel y Lenguaje PHP: https://github.com/userAl3x/CRUD-en-Laravel
+- Proyecto First iOS App, realizado en lenguaje SWIFT: https://github.com/userAl3x/First-iOS-App
+- Proyecto FruitsDemo App, realizado en lenguaje SWIFT: https://github.com/userAl3x/FruitsDemo
+- Proyecto Módulo de Gestión Médica para Odoo, realizado en lenguaje Python: https://github.com/userAl3x/Modulo-Odoo-Medico
+- Proyecto Juego Pong, realizado en lenguaje Python: https://github.com/userAl3x/Juego_Pong
+- Proyecto Bussiness Cards, realizado en lenguaje Kotlin y en FrameWork Jetpack Compose: https://github.com/userAl3x/Business-Cards
   
 ## 📲 Contacto 
 
