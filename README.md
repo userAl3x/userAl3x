@@ -48,6 +48,7 @@ Me llamo Alex, soy un estudiante apasionado de informática especializado en pro
 - Proyecto Juego Pong, realizado en lenguaje Python: https://github.com/userAl3x/Juego_Pong
 - Proyecto Bussiness Cards, realizado en lenguaje Kotlin y en frameWork Jetpack Compose: https://github.com/userAl3x/Business-Cards
 - Proyecto Lemonade App, realizado en lenguaje Kotlin y en framework Jetpack Compose: https://github.com/userAl3x/Lemonade_App
+- Proyecto JavaCar, realizado en lenguaje Java: https://github.com/userAl3x/JavaCar
   
 ## 📲 Contacto 
 
