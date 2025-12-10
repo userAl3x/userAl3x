@@ -17,8 +17,7 @@ Me llamo Alex, soy un estudiante apasionado de informática especializado en pro
 
 ## 💻 Lenguajes y Tecnologías 
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white" />
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white" />
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
 <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
