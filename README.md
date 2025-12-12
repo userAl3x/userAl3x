@@ -45,6 +45,7 @@ Me llamo Alex, soy un estudiante apasionado de informática especializado en pro
 - Proyecto FruitsDemo App, realizado en lenguaje SWIFT: https://github.com/userAl3x/FruitsDemo
 - Proyecto Módulo de Gestión Médica para Odoo, realizado en lenguaje Python: https://github.com/userAl3x/Modulo-Odoo-Medico
 - Proyecto Juego Pong, realizado en lenguaje Python: https://github.com/userAl3x/Juego_Pong
+- Proyecto SuperMario 64 Game, realizada en Kotlin: https://github.com/userAl3x/SuperMario_64_Game
 - Proyecto Bussiness Cards, realizado en lenguaje Kotlin y en frameWork Jetpack Compose: https://github.com/userAl3x/Business-Cards
 - Proyecto Lemonade App, realizado en lenguaje Kotlin y en framework Jetpack Compose: https://github.com/userAl3x/Lemonade_App
 - Proyecto Trivial App, realizado en lenguaje Kotlin y en framework Jetpack Compose: https://github.com/userAl3x/Trivial_App
