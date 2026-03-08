@@ -32,8 +32,8 @@ Me llamo Alex, soy un estudiante apasionado de informática especializado en pro
 ## 💻 IDEs y Herramientas
 <!-- Cursor-->
 <a href="#"><img alt="Cursor" src="https://img.shields.io/badge/Cursor%20-%23000000.svg?logo=cursor&logoColor=white"></a>
-<!-- Visual Studio Code-->
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></a>
+<!-- Visual Studio Code
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></a> -->
 <!-- IntellIj-->
 <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 <!-- Xcode-->
